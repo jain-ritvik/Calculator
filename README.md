@@ -12,8 +12,11 @@ A clean and responsive calculator interface built with HTML and CSS. This projec
 🚀 Features
 
 ✅ Fully designed calculator layout
+
 ✅ Responsive design for different screen sizes
+
 ✅ Styled buttons for digits, operations, and control
+
 ❌ (Upcoming) JavaScript logic for calculations
 
 Your feedback and suggestions are always welcomed. It will help in improving! 😊
